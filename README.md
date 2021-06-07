@@ -13,7 +13,7 @@
 
 Looking for ways I can learn from others and help contribute to projects!
 
-### Find Me Here!
+## Find Me Here!
 [<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
 Website and Linkedin coming soon...!

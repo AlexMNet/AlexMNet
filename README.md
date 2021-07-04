@@ -39,6 +39,9 @@
 
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=1212251792&cover_image=true&theme=default)](https://github.com/kittinan/spotify-github-profile)
 
+### Recent Activity
+<!--RECENT_ACTIVITY:last_update-->
+
 <!--RECENT_ACTIVITY:start-->
 1. 🔱 Forked [AlexMNet/Andre601](https://github.com/AlexMNet/Andre601) from [Andre601/Andre601](https://github.com/Andre601/Andre601)
 2. 🔱 Forked [AlexMNet/abhijoshi2k](https://github.com/AlexMNet/abhijoshi2k) from [abhijoshi2k/abhijoshi2k](https://github.com/abhijoshi2k/abhijoshi2k)

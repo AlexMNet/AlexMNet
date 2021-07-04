@@ -1,14 +1,14 @@
 ## Developer by day and rockstar by night! 
 <p align="left"> <img src=https://komarev.com/ghpvc/?username=AlexMNet alt=AlexMNet> </p>
 - 🎸 I am currently a full time touring musician as a guitarist. <br />
-- 👩‍🎨 I currenlty play for, have played for or have recoreded live performances for: Becky G, Sabrina Carpenter, Nipsey Hussle, 6LACK, Leona Lewis, Gallant and many more!
-- 🗓 I started my self taught web development journey in May of 2020.
-- 👨‍🏫 Joined the Reskill Americans Coding Bootcamp in March 2021 as a Backend Node JS Developer. 
-- 💻 My current interests and studies are in backend web development using javascript, node, express, MongoDB.
-- 🖥 I am also intersted in front-end development as well and am currently self studying react. 
-- 🍩 I also have my eye on the JAMstack!
-- 🎸💻 My goal is to eventually merge my passion for development and music! 
-- 🚑 Fun fact: Before working as a muscian, I worked on an ambulance as an EMT and also went to nursing school!
+- 👩‍🎨 I currenlty play for, have played for or have recoreded live performances for: Becky G, Sabrina Carpenter, Nipsey Hussle, 6LACK, Leona Lewis, Gallant and many more! <br />
+- 🗓 I started my self taught web development journey in May of 2020. <br />
+- 👨‍🏫 Joined the Reskill Americans Coding Bootcamp in March 2021 as a Backend Node JS Developer. <br />
+- 💻 My current interests and studies are in backend web development using javascript, node, express, MongoDB. <br />
+- 🖥 I am also intersted in front-end development as well and am currently self studying react. <br />
+- 🍩 I also have my eye on the JAMstack! <br />
+- 🎸💻 My goal is to eventually merge my passion for development and music! <br />
+- 🚑 Fun fact: Before working as a muscian, I worked on an ambulance as an EMT and also went to nursing school! <br />
 
 
 ### Tech

@@ -33,10 +33,3 @@
 <br />
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AlexMNet&theme=react)](https://github.com/AlexMNet/github-readme-stats)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AlexMNet&layout=compact)](https://github.com/AlexMNet/github-readme-stats)
-
-
-
-
-

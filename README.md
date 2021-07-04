@@ -34,7 +34,7 @@
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AlexMNet&theme=react)](https://github.com/AlexMNet/github-readme-stats)
 
-
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=AlexMNet)](https://github.com/AlexMNet/github-readme-stats)
 
 
 

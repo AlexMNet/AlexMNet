@@ -34,5 +34,8 @@
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AlexMNet&theme=react)](https://github.com/AlexMNet/github-readme-stats)
 
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=AlexMNet&repo=Wildfire-Group1)](https://github.com/AlexMNet/Wildfire-Group1)
+
+
 
 

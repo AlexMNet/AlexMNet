@@ -1,6 +1,7 @@
 <!-- ## Developer by day and rockstar by night!  -->
 <h1 align="left">Hi 👋, I'm Alex Maldonado</h1>
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?size=16&width=500&lines=Touring+guitarist+with+a+passion+for+web-dev)](https://git.io/typing-svg)
+
 <p align="left"> <img src=https://komarev.com/ghpvc/?username=AlexMNet alt=AlexMNet> </p>
 
 - 🎸 I am currently a full time touring musician as a guitarist. <br />

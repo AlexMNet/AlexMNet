@@ -30,10 +30,7 @@
 
 [<img alt="Facebook" src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white"/>](https://www.facebook.com/AlexMaldonadoGuitar/)
 
-[<img src="https://img.shields.io/badge/JavaScript-282C34?logo=javascript&logoColor=F7DF1E" alt="JavaScript logo" title="JavaScript" height="25" />][tech_tools_anchor]
-&nbsp;
-[<img src="https://img.shields.io/badge/VSCode-282C34?logo=vscode&logoColor=F7DF1E" alt="VSCode logo" title="VSCode" height="25" />][tech_tools_anchor]
-&nbsp;
+[<img src="https://img.shields.io/badge/JavaScript-282C34?logo=javascript&logoColor=F7DF1E" alt="JavaScript logo" title="JavaScript" height="25" />]
 
 
 [instagram]: https://instagram.com/AlexMNet

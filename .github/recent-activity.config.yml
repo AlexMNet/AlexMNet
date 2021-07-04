@@ -9,8 +9,8 @@ settings:
     - "review"
   #url_text: "{REPO}{ID}"
   date:
-    timezone: "GMT+5:30"
-    text: "Last Updated: {DATE} (Indian Standard Time)"
+    timezone: "GMT-7"
+    text: "Last Updated: {DATE} (Pacific Standard Time)"
     #format: "dddd, mmmm dS, yyyy, h:MM:ss TT"
 messages:
   comments: "💬 Commented on {ID} in {REPO}"

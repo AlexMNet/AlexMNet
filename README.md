@@ -1,4 +1,5 @@
-<h1 align="left">Hi 👋, I'm Alex Maldonado <img src=https://komarev.com/ghpvc/?username=AlexMNet alt=AlexMNet></h1>
+<h1><img src=https://github.com/AlexMNet/AlexMNet/blob/main/header.png?raw=true alt=AlexMNet></h1>
+<img src=https://komarev.com/ghpvc/?username=AlexMNet alt=AlexMNet>
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?size=18&width=500&lines=Touring+guitarist+with+a+passion+for+web-dev)](https://git.io/typing-svg)
 

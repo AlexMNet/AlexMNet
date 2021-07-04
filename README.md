@@ -1,4 +1,4 @@
-## Developer by day and rockstar by night! 
+<!-- ## Developer by day and rockstar by night! 
 <p align="left"> <img src=https://komarev.com/ghpvc/?username=AlexMNet alt=AlexMNet> </p>
 - 🎸 I am currently a full time touring musician as a guitarist. <br />
 - 👩‍🎨 I currenlty play for, have played for or have recoreded live performances for: Becky G, Sabrina Carpenter, Nipsey Hussle, 6LACK, Leona Lewis, Gallant and many more! <br />
@@ -33,3 +33,4 @@
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AlexMNet&theme=react)](https://github.com/AlexMNet/github-readme-stats)
 
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=1212251792&cover_image=true&theme=default)](https://github.com/kittinan/spotify-github-profile)
+ -->

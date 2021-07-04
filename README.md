@@ -1,6 +1,6 @@
 ## Developer by day and rockstar by night! 
 <p align="left"> <img src=https://komarev.com/ghpvc/?username=AlexMNet alt=AlexMNet> </p>
-- 🎸 I am currently a full time touring musician as a guitarist.  
+- 🎸 I am currently a full time touring musician as a guitarist. <br />
 - 👩‍🎨 I currenlty play for, have played for or have recoreded live performances for: Becky G, Sabrina Carpenter, Nipsey Hussle, 6LACK, Leona Lewis, Gallant and many more!
 - 🗓 I started my self taught web development journey in May of 2020.
 - 👨‍🏫 Joined the Reskill Americans Coding Bootcamp in March 2021 as a Backend Node JS Developer. 

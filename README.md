@@ -1,7 +1,6 @@
 <h1 align="left">Hi 👋, I'm Alex Maldonado <img src=https://komarev.com/ghpvc/?username=AlexMNet alt=AlexMNet></h1>
-<!-- <p align="left"> <img src=https://komarev.com/ghpvc/?username=AlexMNet alt=AlexMNet> </p> -->
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=16&width=500&lines=Touring+guitarist+with+a+passion+for+web-dev)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=18&width=500&lines=Touring+guitarist+with+a+passion+for+web-dev)](https://git.io/typing-svg)
 
 
 <h3 align="left">About Me</h3>

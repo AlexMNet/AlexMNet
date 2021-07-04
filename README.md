@@ -26,9 +26,7 @@
 <br />
 
 ### Find Me Here!
-<a href="https://www.instagram.com/AlexMNet/" target="_blank">
-    <img align="left" alt="Alex Maldonado | Instagram" width="24px" src="https://github.com/AlexMnet/AlexMNet/blob/master/Instagram.svg"  />
-  </a>
+<a href="http://www.instagram.com/AlexMNet/" style="color:rgb(17,85,204)" target="_blank"><img src="https://ci3.googleusercontent.com/proxy/KHdfVUhcatuzSnuDoNnIKhh0Egg8Ujs0RwXFAthYxqTACy2kcFWpoogYr48nixiXgVg4czAiSzt5A-vBOApK986cb5sKo2VFoDIyNdT0b2woJwgAw-yT-VY8j0dIiM9ZBOGBCFs=s0-d-e1-ft#https://s3.amazonaws.com/images.wisestamp.com/social_icons/square/instagram.png" style="border-radius:0px;border:0px;"></a>
 
 
 [instagram]: https://instagram.com/AlexMNet

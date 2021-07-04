@@ -40,3 +40,14 @@
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=1212251792&cover_image=true&theme=default)](https://github.com/kittinan/spotify-github-profile)
 
 <!--RECENT_ACTIVITY:start-->
+1. ![fork] Forked [AlexMNet/Andre601](https://github.com/AlexMNet/Andre601) from [Andre601/Andre601](https://github.com/Andre601/Andre601)
+2. ![fork] Forked [AlexMNet/abhijoshi2k](https://github.com/AlexMNet/abhijoshi2k) from [abhijoshi2k/abhijoshi2k](https://github.com/abhijoshi2k/abhijoshi2k)
+3. ![fork] Forked [AlexMNet/PuneetGopinath](https://github.com/AlexMNet/PuneetGopinath) from [PuneetGopinath/PuneetGopinath](https://github.com/PuneetGopinath/PuneetGopinath)
+4. ![fork] Forked [AlexMNet/recent-activity](https://github.com/AlexMNet/recent-activity) from [Readme-Workflows/recent-activity](https://github.com/Readme-Workflows/recent-activity)
+5. ![fork] Forked [AlexMNet/guilyx](https://github.com/AlexMNet/guilyx) from [guilyx/guilyx](https://github.com/guilyx/guilyx)
+6. ![star] Starred [ankurparihar/readme-pagespeed-insights](https://github.com/ankurparihar/readme-pagespeed-insights)
+7. ![star] Starred [rishavanand/github-profilinator](https://github.com/rishavanand/github-profilinator)
+8. ![star] Starred [ryo-ma/github-profile-trophy](https://github.com/ryo-ma/github-profile-trophy)
+9. ![fork] Forked [AlexMNet/Evavic44](https://github.com/AlexMNet/Evavic44) from [Evavic44/Evavic44](https://github.com/Evavic44/Evavic44)
+10. ![fork] Forked [AlexMNet/jamesgeorge007](https://github.com/AlexMNet/jamesgeorge007) from [jamesgeorge007/jamesgeorge007](https://github.com/jamesgeorge007/jamesgeorge007)
+<!--RECENT_ACTIVITY:end-->

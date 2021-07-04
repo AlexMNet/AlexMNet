@@ -28,6 +28,8 @@
 ### Find Me Here!
 [<img alt="Instagram" src="https://img.shields.io/badge/AlexMNet-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white"/>](https://www.instagram.com/alexmnet/)
 
+[<img alt="Facebook" src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white"/>](https://www.facebook.com/AlexMaldonadoGuitar/)
+
 
 [instagram]: https://instagram.com/AlexMNet
 <br />

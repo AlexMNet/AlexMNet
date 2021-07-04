@@ -32,7 +32,7 @@
 <br />
 <br />
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AlexMNet&theme=dark)](https://github.com/AlexMNet/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AlexMNet&theme=react)](https://github.com/AlexMNet/github-readme-stats)
 
 
 

@@ -29,5 +29,10 @@
 
 
 [instagram]: https://instagram.com/AlexMNet
+<br />
+<br />
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AlexMNet)](https://github.com/AlexMNet/github-readme-stats)
+
 
 

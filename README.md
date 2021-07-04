@@ -1,7 +1,7 @@
 <!-- ## Developer by day and rockstar by night!  -->
-<h1 align="center">Hi 👋, I'm Alex Maldonado</h1>
-<h3 align="center">Touring freelance guitarist with a passion for web-dev!</h3>
-<p align="center"> <img src=https://komarev.com/ghpvc/?username=AlexMNet alt=AlexMNet> </p>
+<h1 align="left">Hi 👋, I'm Alex Maldonado</h1>
+<h3 align="left">Touring freelance guitarist with a passion for web-dev!</h3>
+<p align="left"> <img src=https://komarev.com/ghpvc/?username=AlexMNet alt=AlexMNet> </p>
 - 🎸 I am currently a full time touring musician as a guitarist. <br />
 - 👩‍🎨 I currenlty play for, have played for or have recoreded live performances for: Becky G, Sabrina Carpenter, Nipsey Hussle, 6LACK, Leona Lewis, Gallant and many more! <br />
 - 🗓 I started my self taught web development journey in May of 2020. <br />

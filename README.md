@@ -39,4 +39,4 @@
 
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=1212251792&cover_image=true&theme=default)](https://github.com/kittinan/spotify-github-profile)
 
-<!--GITHUB_ACTIVITY:{"rows": 5, "raw": true}-->
+<!--START_SECTION:activity-->

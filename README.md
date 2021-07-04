@@ -26,7 +26,7 @@
 <br />
 
 ### Find Me Here!
-<img alt="Instagram" src="https://img.shields.io/badge/AlexMNet-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white"/>
+[<img alt="Instagram" src="https://img.shields.io/badge/AlexMNet-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white"/>](https://www.instagram.com/alexmnet/)
 
 
 [instagram]: https://instagram.com/AlexMNet

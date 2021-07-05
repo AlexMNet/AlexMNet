@@ -7,7 +7,6 @@ settings:
   disabled_events:
     - "comments"
     - "review"
-    - "fork"
     - "star"
   #url_text: "{REPO}{ID}"
   date:

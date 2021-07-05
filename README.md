@@ -41,18 +41,18 @@
 
 ### Recent Activity
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Monday, July 5th, 2021, 12:03:45 AM (Pacific Standard Time)
+Last Updated: Monday, July 5th, 2021, 12:05:25 AM (Pacific Standard Time)
 <!--RECENT_ACTIVITY:last_update_end-->
 
 <!--RECENT_ACTIVITY:start-->
-1. 🔱 Forked [AlexMNet/Andre601](https://github.com/AlexMNet/Andre601) from [Andre601/Andre601](https://github.com/Andre601/Andre601)
-2. 🔱 Forked [AlexMNet/abhijoshi2k](https://github.com/AlexMNet/abhijoshi2k) from [abhijoshi2k/abhijoshi2k](https://github.com/abhijoshi2k/abhijoshi2k)
-3. 🔱 Forked [AlexMNet/PuneetGopinath](https://github.com/AlexMNet/PuneetGopinath) from [PuneetGopinath/PuneetGopinath](https://github.com/PuneetGopinath/PuneetGopinath)
-4. 🔱 Forked [AlexMNet/recent-activity](https://github.com/AlexMNet/recent-activity) from [Readme-Workflows/recent-activity](https://github.com/Readme-Workflows/recent-activity)
-5. 🔱 Forked [AlexMNet/guilyx](https://github.com/AlexMNet/guilyx) from [guilyx/guilyx](https://github.com/guilyx/guilyx)
-6. 🔱 Forked [AlexMNet/Evavic44](https://github.com/AlexMNet/Evavic44) from [Evavic44/Evavic44](https://github.com/Evavic44/Evavic44)
-7. 🔱 Forked [AlexMNet/jamesgeorge007](https://github.com/AlexMNet/jamesgeorge007) from [jamesgeorge007/jamesgeorge007](https://github.com/jamesgeorge007/jamesgeorge007)
-8. 🔱 Forked [AlexMNet/rafi0101](https://github.com/AlexMNet/rafi0101) from [rafi0101/rafi0101](https://github.com/rafi0101/rafi0101)
-9. 🔱 Forked [AlexMNet/vbriand](https://github.com/AlexMNet/vbriand) from [vbriand/vbriand](https://github.com/vbriand/vbriand)
-10. 🔱 Forked [AlexMNet/piyushP7pravin](https://github.com/AlexMNet/piyushP7pravin) from [piyushP7pravin/piyushP7pravin](https://github.com/piyushP7pravin/piyushP7pravin)
+1. ⭐ Starred [Readme-Workflows/recent-activity](https://github.com/Readme-Workflows/recent-activity)
+2. 🔱 Forked [AlexMNet/Andre601](https://github.com/AlexMNet/Andre601) from [Andre601/Andre601](https://github.com/Andre601/Andre601)
+3. 🔱 Forked [AlexMNet/abhijoshi2k](https://github.com/AlexMNet/abhijoshi2k) from [abhijoshi2k/abhijoshi2k](https://github.com/abhijoshi2k/abhijoshi2k)
+4. 🔱 Forked [AlexMNet/PuneetGopinath](https://github.com/AlexMNet/PuneetGopinath) from [PuneetGopinath/PuneetGopinath](https://github.com/PuneetGopinath/PuneetGopinath)
+5. 🔱 Forked [AlexMNet/recent-activity](https://github.com/AlexMNet/recent-activity) from [Readme-Workflows/recent-activity](https://github.com/Readme-Workflows/recent-activity)
+6. 🔱 Forked [AlexMNet/guilyx](https://github.com/AlexMNet/guilyx) from [guilyx/guilyx](https://github.com/guilyx/guilyx)
+7. ⭐ Starred [ankurparihar/readme-pagespeed-insights](https://github.com/ankurparihar/readme-pagespeed-insights)
+8. ⭐ Starred [rishavanand/github-profilinator](https://github.com/rishavanand/github-profilinator)
+9. ⭐ Starred [ryo-ma/github-profile-trophy](https://github.com/ryo-ma/github-profile-trophy)
+10. 🔱 Forked [AlexMNet/Evavic44](https://github.com/AlexMNet/Evavic44) from [Evavic44/Evavic44](https://github.com/Evavic44/Evavic44)
 <!--RECENT_ACTIVITY:end-->

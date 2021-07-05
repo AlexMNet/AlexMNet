@@ -12,7 +12,6 @@ settings:
     timezone: "GMT-7"
     text: "Last Updated: {DATE} (Pacific Standard Time)"
     #format: "dddd, mmmm dS, yyyy, h:MM:ss TT"
-  disabled_events: [fork]
 messages:
   comments: "💬 Commented on {ID} in {REPO}"
   issue_opened: "❗️ Opened issue {ID} in {REPO}"

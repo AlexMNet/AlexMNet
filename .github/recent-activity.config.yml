@@ -7,7 +7,6 @@ settings:
   disabled_events:
     - "comments"
     - "review"
-    - "star"
   #url_text: "{REPO}{ID}"
   date:
     timezone: "GMT-7"

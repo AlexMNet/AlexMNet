@@ -8,6 +8,7 @@ settings:
     - "comments"
     - "review"
     - "fork"
+    - "star"
   #url_text: "{REPO}{ID}"
   date:
     timezone: "GMT-7"

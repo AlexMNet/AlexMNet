@@ -36,10 +36,12 @@
 <br />
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AlexMNet&show_icons=true&theme=vision-friendly-dark)](https://github.com/AlexMNet/github-readme-stats)
-
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=AlexMNet&theme=dark&hide_border=true)](https://git.io/streak-stats)
 
 [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=AlexMNet)](https://github.com/AlexMNet/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+
 
 
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=1212251792&cover_image=true&theme=default)](https://github.com/kittinan/spotify-github-profile)

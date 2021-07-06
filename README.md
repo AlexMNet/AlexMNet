@@ -35,7 +35,7 @@
 [<img alt="Facebook" src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white"/>](https://www.facebook.com/AlexMaldonadoGuitar/)
 <br />
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AlexMNet&theme=react)](https://github.com/AlexMNet/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AlexMNet&show_icons=true&theme=vision-friendly-dark)](https://github.com/AlexMNet/github-readme-stats)
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=AlexMNet&theme=dark&hide_border=true)](https://git.io/streak-stats)
 
@@ -46,7 +46,7 @@
 
 ### Recent Activity
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Tuesday, July 6th, 2021, 1:04:23 PM (Pacific Standard Time)
+Last Updated: Tuesday, July 6th, 2021, 12:31:35 PM (Pacific Standard Time)
 <!--RECENT_ACTIVITY:last_update_end-->
 
 <!--RECENT_ACTIVITY:start-->

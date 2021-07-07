@@ -49,6 +49,8 @@
 ### Coding Stats
 <!--START_SECTION:waka-->
 ```text
+Week: 30 June, 2021 - 06 July, 2021
+
 JavaScript   1 hr 39 mins    ███████████████████████▓░   94.20 % 
 EJS          5 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   05.14 % 
 ```

@@ -40,7 +40,7 @@
 
 [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=AlexMNet&bg_color=0D1117&title_color=00D8FF&text_color=F9F6F0&border_color=939393)](https://github.com/AlexMNet/github-readme-stats)
 
-📊 **this week i spent my time on:**
+📊 **this week I spent my time on:**
 <!--START_SECTION:waka-->
 ```text
 Week: 30 June, 2021 - 06 July, 2021

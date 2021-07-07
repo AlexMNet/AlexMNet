@@ -46,6 +46,9 @@
 
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=1212251792&cover_image=true&theme=default)](https://github.com/kittinan/spotify-github-profile)
 
+### Coding Stats
+<!--START_SECTION:waka-->
+
 ### Recent Activity
 <!--RECENT_ACTIVITY:last_update-->
 Last Updated: Tuesday, July 6th, 2021, 9:45:28 PM (Pacific Standard Time)

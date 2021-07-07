@@ -41,7 +41,7 @@
 [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=AlexMNet&bg_color=0D1117&title_color=00D8FF&text_color=F9F6F0&border_color=939393)](https://github.com/AlexMNet/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ALexMNet&layout=compact&bg_color=0D1117&title_color=00D8FF&border_color=939393&text_color=F9F6F0)](https://github.com/anuraghazra/github-readme-stats)
 
-
+<img src="https://github.com/AlexMNet/AlexMNet/blob/main/images/stat.svg" alt="Alternative Text"/>
 
 
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=1212251792&cover_image=true&theme=default)](https://github.com/kittinan/spotify-github-profile)

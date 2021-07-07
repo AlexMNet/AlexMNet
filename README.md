@@ -39,14 +39,7 @@
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=AlexMNet&theme=material-palenight&background=0D1117&ring=00D8FF&fire=DD2727&sideNums=00D8FF&sideLabels=00D8FF&dates=F9F6F0&border=939393&border_color=939393)](https://git.io/streak-stats)
 
 [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=AlexMNet&bg_color=0D1117&title_color=00D8FF&text_color=F9F6F0&border_color=939393)](https://github.com/AlexMNet/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ALexMNet&layout=compact&bg_color=0D1117&title_color=00D8FF&border_color=939393&text_color=F9F6F0)](https://github.com/anuraghazra/github-readme-stats)
 
-<img src="https://github.com/AlexMNet/AlexMNet/blob/main/images/stat.svg" alt="Alternative Text"/>
-
-
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=1212251792&cover_image=true&theme=default)](https://github.com/kittinan/spotify-github-profile)
-
-### Coding Stats
 <!--START_SECTION:waka-->
 ```text
 Week: 30 June, 2021 - 06 July, 2021
@@ -55,6 +48,10 @@ JavaScript   1 hr 39 mins    █████████████████
 EJS          5 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   05.14 % 
 ```
 <!--END_SECTION:waka-->
+
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=1212251792&cover_image=true&theme=default)](https://github.com/kittinan/spotify-github-profile)
+
+
 
 ### Recent Activity
 <!--RECENT_ACTIVITY:last_update-->

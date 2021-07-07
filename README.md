@@ -35,7 +35,7 @@
 [<img alt="Facebook" src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white"/>](https://www.facebook.com/AlexMaldonadoGuitar/)
 <br />
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AlexMNet&show_icons=true&bg_color=0D1117&title_color=6F5B3E&hide_border=true&icon_color=C4AE78&text_color=F9F6F0)](https://github.com/AlexMNet/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AlexMNet&show_icons=true&bg_color=0D1117&title_color=00D8FF&border_color=939393&icon_color=00D8FF&text_color=F9F6F0)](https://github.com/AlexMNet/github-readme-stats)
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=AlexMNet&theme=dark&hide_border=true)](https://git.io/streak-stats)
 
 [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=AlexMNet)](https://github.com/AlexMNet/github-readme-stats)

@@ -48,7 +48,10 @@
 
 ### Coding Stats
 <!--START_SECTION:waka-->
-
+```text
+JavaScript   1 hr 39 mins    ███████████████████████▓░   94.20 % 
+EJS          5 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   05.14 % 
+```
 <!--END_SECTION:waka-->
 
 ### Recent Activity

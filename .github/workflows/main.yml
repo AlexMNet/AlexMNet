@@ -6,7 +6,7 @@ name: WakaTime status update
 
 on:
   push:
-    branches: [ master ]
+    branches: [ main ]
   schedule:
     - cron: '1 0 * * *' 
 

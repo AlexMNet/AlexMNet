@@ -49,6 +49,8 @@
 ### Coding Stats
 <!--START_SECTION:waka-->
 
+<!--END_SECTION:waka-->
+
 ### Recent Activity
 <!--RECENT_ACTIVITY:last_update-->
 Last Updated: Tuesday, July 6th, 2021, 9:45:28 PM (Pacific Standard Time)

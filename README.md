@@ -36,10 +36,10 @@
 <br />
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AlexMNet&show_icons=true&bg_color=0D1117&title_color=00D8FF&border_color=939393&icon_color=00D8FF&text_color=F9F6F0&count_private=true)](https://github.com/AlexMNet/github-readme-stats)
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=AlexMNet&theme=dark&hide_border=true)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=AlexMNet&theme=material-palenight&background=0D1117&ring=00D8FF&fire=DD2727&sideNums=00D8FF&sideLabels=00D8FF&dates=F9F6F0&border=939393&border_color=939393)](https://git.io/streak-stats)
 
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=AlexMNet)](https://github.com/AlexMNet/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ALexMNet&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=AlexMNet&bg_color=0D1117&title_color=00D8FF&text_color=F9F6F0&border_color=939393)](https://github.com/AlexMNet/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ALexMNet&layout=compact&bg_color=0D1117&title_color=00D8FF&border_color=939393&text_color=F9F6F0)](https://github.com/anuraghazra/github-readme-stats)
 
 
 

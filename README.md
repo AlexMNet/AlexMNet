@@ -1,7 +1,11 @@
-<h1><img src=https://github.com/AlexMNet/AlexMNet/blob/main/header.png?raw=true alt=AlexMNet></h1>
-<img src=https://komarev.com/ghpvc/?username=AlexMNet alt=AlexMNet>
+<!-- <h1><img src=https://github.com/AlexMNet/AlexMNet/blob/main/header.png?raw=true alt=AlexMNet></h1> -->
+<div align="center">
+  <img width="100%" src="https://scontent-lax3-1.xx.fbcdn.net/v/t39.30808-6/p180x540/216054703_10159121077247850_5452398206661277373_n.jpg?_nc_cat=104&ccb=1-3&_nc_sid=8bfeb9&_nc_ohc=_LbVUH7EpZIAX9E5cze&_nc_ht=scontent-lax3-1.xx&tp=6&oh=b0f7bd28af914864e3eca0063cc51a0d&oe=60ED4C2E" />
+</div>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=18&width=750&lines=Touring+guitarist+with+a+passion+for+web+development)](https://git.io/typing-svg)
+![](https://komarev.com/ghpvc/?username=AlexMNet)
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=20&width=750&lines=Touring+guitarist+with+a+passion+for+web+development)](https://git.io/typing-svg)
 
 
 <h3 align="left">About Me</h3>
@@ -59,18 +63,18 @@ Git Config   3 mins          ▒░░░░░░░░░░░░░░░░
 
 ### Recent Activity
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Thursday, July 8th, 2021, 11:05:29 PM (Pacific Standard Time)
+Last Updated: Thursday, July 8th, 2021, 10:31:34 PM (Pacific Standard Time)
 <!--RECENT_ACTIVITY:last_update_end-->
 
 <!--RECENT_ACTIVITY:start-->
-1. 🔱 Forked [AlexMNet/oussamabouchikhi](https://github.com/AlexMNet/oussamabouchikhi) from [oussamabouchikhi/oussamabouchikhi](https://github.com/oussamabouchikhi/oussamabouchikhi)
-2. 🔱 Forked [AlexMNet/abhisheknaiidu](https://github.com/AlexMNet/abhisheknaiidu) from [abhisheknaiidu/abhisheknaiidu](https://github.com/abhisheknaiidu/abhisheknaiidu)
-3. 🔱 Forked [AlexMNet/gargakshit](https://github.com/AlexMNet/gargakshit) from [gargakshit/gargakshit](https://github.com/gargakshit/gargakshit)
-4. 🔱 Forked [AlexMNet/mitul3737](https://github.com/AlexMNet/mitul3737) from [mitul3737/mitul3737](https://github.com/mitul3737/mitul3737)
-5. 📔 Created new repository [AlexMNet/expenses-tracker-](https://github.com/AlexMNet/expenses-tracker-)
-6. 🔱 Forked [AlexMNet/rahul-jha98](https://github.com/AlexMNet/rahul-jha98) from [rahul-jha98/rahul-jha98](https://github.com/rahul-jha98/rahul-jha98)
-7. 🔱 Forked [AlexMNet/zumrudu-anka](https://github.com/AlexMNet/zumrudu-anka) from [zumrudu-anka/zumrudu-anka](https://github.com/zumrudu-anka/zumrudu-anka)
-8. 🔱 Forked [AlexMNet/MacroPower](https://github.com/AlexMNet/MacroPower) from [MacroPower/MacroPower](https://github.com/MacroPower/MacroPower)
-9. 🔱 Forked [AlexMNet/Veri5ied](https://github.com/AlexMNet/Veri5ied) from [Veri5ied/Veri5ied](https://github.com/Veri5ied/Veri5ied)
-10. ⭐ Starred [anmol098/waka-readme-stats](https://github.com/anmol098/waka-readme-stats)
+1. 🔱 Forked [AlexMNet/abhisheknaiidu](https://github.com/AlexMNet/abhisheknaiidu) from [abhisheknaiidu/abhisheknaiidu](https://github.com/abhisheknaiidu/abhisheknaiidu)
+2. 🔱 Forked [AlexMNet/gargakshit](https://github.com/AlexMNet/gargakshit) from [gargakshit/gargakshit](https://github.com/gargakshit/gargakshit)
+3. 🔱 Forked [AlexMNet/mitul3737](https://github.com/AlexMNet/mitul3737) from [mitul3737/mitul3737](https://github.com/mitul3737/mitul3737)
+4. 📔 Created new repository [AlexMNet/expenses-tracker-](https://github.com/AlexMNet/expenses-tracker-)
+5. 🔱 Forked [AlexMNet/rahul-jha98](https://github.com/AlexMNet/rahul-jha98) from [rahul-jha98/rahul-jha98](https://github.com/rahul-jha98/rahul-jha98)
+6. 🔱 Forked [AlexMNet/zumrudu-anka](https://github.com/AlexMNet/zumrudu-anka) from [zumrudu-anka/zumrudu-anka](https://github.com/zumrudu-anka/zumrudu-anka)
+7. 🔱 Forked [AlexMNet/MacroPower](https://github.com/AlexMNet/MacroPower) from [MacroPower/MacroPower](https://github.com/MacroPower/MacroPower)
+8. 🔱 Forked [AlexMNet/Veri5ied](https://github.com/AlexMNet/Veri5ied) from [Veri5ied/Veri5ied](https://github.com/Veri5ied/Veri5ied)
+9. ⭐ Starred [anmol098/waka-readme-stats](https://github.com/anmol098/waka-readme-stats)
+10. 📔 Created new repository [AlexMNet/hot-sauce-appv3](https://github.com/AlexMNet/hot-sauce-appv3)
 <!--RECENT_ACTIVITY:end-->

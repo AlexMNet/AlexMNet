@@ -38,43 +38,14 @@
 
 [<img alt="Facebook" src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white"/>](https://www.facebook.com/AlexMaldonadoGuitar/)
 <br />
+<h2 align="center">My Coding Stats!</h2>
+<div align="center">
+  
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AlexMNet&show_icons=true&bg_color=0D1117&title_color=00D8FF&border_color=939393&icon_color=00D8FF&text_color=424752&count_private=true)](https://github.com/AlexMNet/github-readme-stats)
+  
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=AlexMNet&theme=material-palenight&background=0D1117&ring=00D8FF&fire=DD2727&sideNums=00D8FF&sideLabels=00D8FF&dates=424752&border=939393&border_color=939393)](https://git.io/streak-stats)
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AlexMNet&show_icons=true&bg_color=0D1117&title_color=00D8FF&border_color=939393&icon_color=00D8FF&text_color=F9F6F0&count_private=true)](https://github.com/AlexMNet/github-readme-stats)
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=AlexMNet&theme=material-palenight&background=0D1117&ring=00D8FF&fire=DD2727&sideNums=00D8FF&sideLabels=00D8FF&dates=F9F6F0&border=939393&border_color=939393)](https://git.io/streak-stats)
-
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=AlexMNet&bg_color=0D1117&title_color=00D8FF&text_color=F9F6F0&border_color=939393)](https://github.com/AlexMNet/github-readme-stats)
-
-📊 **this week I spent my time on:**
-<!--START_SECTION:waka-->
-```text
-Week: 03 July, 2021 - 09 July, 2021
-
-JavaScript   6 hrs 20 mins   ███████████████████▓░░░░░   78.87 % 
-EJS          1 hr            ███░░░░░░░░░░░░░░░░░░░░░░   12.58 % 
-Other        30 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.29 % 
-JSON         6 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.25 % 
-Git Config   3 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.76 % 
-```
-<!--END_SECTION:waka-->
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=AlexMNet&bg_color=0D1117&title_color=00D8FF&text_color=424752&border_color=939393&range=last_7_days&custom_title=Weekly%20Coding%20Stats)](https://github.com/AlexMNet/github-readme-stats)
 
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=1212251792&cover_image=true&theme=default)](https://github.com/kittinan/spotify-github-profile)
-
-
-
-### Recent Activity
-<!--RECENT_ACTIVITY:last_update-->
-Last Updated: Friday, July 9th, 2021, 6:30:38 PM (Pacific Standard Time)
-<!--RECENT_ACTIVITY:last_update_end-->
-
-<!--RECENT_ACTIVITY:start-->
-1. 🔱 Forked [AlexMNet/visitor-badge-node](https://github.com/AlexMNet/visitor-badge-node) from [WangNingkai/visitor-badge-node](https://github.com/WangNingkai/visitor-badge-node)
-2. 🔱 Forked [AlexMNet/oussamabouchikhi](https://github.com/AlexMNet/oussamabouchikhi) from [oussamabouchikhi/oussamabouchikhi](https://github.com/oussamabouchikhi/oussamabouchikhi)
-3. 🔱 Forked [AlexMNet/abhisheknaiidu](https://github.com/AlexMNet/abhisheknaiidu) from [abhisheknaiidu/abhisheknaiidu](https://github.com/abhisheknaiidu/abhisheknaiidu)
-4. 🔱 Forked [AlexMNet/gargakshit](https://github.com/AlexMNet/gargakshit) from [gargakshit/gargakshit](https://github.com/gargakshit/gargakshit)
-5. 🔱 Forked [AlexMNet/mitul3737](https://github.com/AlexMNet/mitul3737) from [mitul3737/mitul3737](https://github.com/mitul3737/mitul3737)
-6. 📔 Created new repository [AlexMNet/expenses-tracker-](https://github.com/AlexMNet/expenses-tracker-)
-7. 🔱 Forked [AlexMNet/rahul-jha98](https://github.com/AlexMNet/rahul-jha98) from [rahul-jha98/rahul-jha98](https://github.com/rahul-jha98/rahul-jha98)
-8. 🔱 Forked [AlexMNet/zumrudu-anka](https://github.com/AlexMNet/zumrudu-anka) from [zumrudu-anka/zumrudu-anka](https://github.com/zumrudu-anka/zumrudu-anka)
-9. 🔱 Forked [AlexMNet/MacroPower](https://github.com/AlexMNet/MacroPower) from [MacroPower/MacroPower](https://github.com/MacroPower/MacroPower)
-10. 🔱 Forked [AlexMNet/Veri5ied](https://github.com/AlexMNet/Veri5ied) from [Veri5ied/Veri5ied](https://github.com/Veri5ied/Veri5ied)
-<!--RECENT_ACTIVITY:end-->
+</div>

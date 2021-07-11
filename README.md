@@ -50,5 +50,5 @@
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=1212251792&cover_image=true&theme=default)](https://github.com/kittinan/spotify-github-profile)
 </div>
 
-[![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=AlexMNet&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=AlexMNet&theme=react-dark&bg_color=0D1117)](https://github.com/ashutosh00710/github-readme-activity-graph)
 

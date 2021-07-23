@@ -1,6 +1,6 @@
 <!-- <h1><img src=https://github.com/AlexMNet/AlexMNet/blob/main/header.png?raw=true alt=AlexMNet></h1> -->
 <div align="center">
-  <img width="100%" src="https://scontent-lax3-1.xx.fbcdn.net/v/t39.30808-6/216054703_10159121077247850_5452398206661277373_n.jpg?_nc_cat=104&ccb=1-3&_nc_sid=8bfeb9&_nc_ohc=HepTrOsG1DUAX-uHN3B&_nc_ht=scontent-lax3-1.xx&oh=c1e5898a66dae299a08a1cd29a43ee26&oe=60FA3590" />
+  <img width="100%" src="https://scontent-lax3-1.xx.fbcdn.net/v/t39.30808-6/216054703_10159121077247850_5452398206661277373_n.jpg?_nc_cat=104&ccb=1-3&_nc_sid=8bfeb9&_nc_ohc=nmvha5V-UiEAX-dwtVN&_nc_ht=scontent-lax3-1.xx&oh=e16207d4466d2aa0fd04b32f7deb6e96&oe=61002450" />
 </div>
 
 ![](https://komarev.com/ghpvc/?username=AlexMNet)

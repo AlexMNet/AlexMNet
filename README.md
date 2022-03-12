@@ -5,7 +5,7 @@
 
 ![](https://komarev.com/ghpvc/?username=AlexMNet)
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=20&width=750&lines=Web+Developer+and+Musician)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=20&width=750&lines=Software+Developer+and+Musician)](https://git.io/typing-svg)
 
 
 <h3 align="left">About Me</h3>

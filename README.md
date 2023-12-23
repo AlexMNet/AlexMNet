@@ -38,6 +38,9 @@
 <br />
 <h2 align="center">My Coding Stats!</h2>
 <div align="center">
+
+<h3>Days spent coding</h3>
+<a href="https://wakatime.com"><img src="https://wakatime.com/share/@AlexMNet/6968b051-dff1-4342-8d17-fb597845ce9f.png" /></a>
   
 [![Anurag's GitHub stats](https://github-readme-stats-alexmnet.vercel.app/api?username=AlexMNet&show_icons=true&bg_color=0D1117&title_color=00D8FF&border_color=939393&icon_color=00D8FF&text_color=424752&count_private=true)](https://github.com/AlexMNet/github-readme-stats)
   
